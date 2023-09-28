@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="225f8a98-7587-4677-bc1d-270b2cfff067" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonalIncomeTaxAssessment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TaxAssessment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TaxAssessment01Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TaxAssessment02Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TaxAssessment01Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TaxAssessment01Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TaxAssessment02Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TaxAssessment02Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +52,7 @@
       <updated>1695823956057</updated>
       <workItem from="1695823958088" duration="827000" />
       <workItem from="1695825357734" duration="16633000" />
-      <workItem from="1695871758835" duration="8930000" />
+      <workItem from="1695871758835" duration="9077000" />
     </task>
     <servers />
   </component>

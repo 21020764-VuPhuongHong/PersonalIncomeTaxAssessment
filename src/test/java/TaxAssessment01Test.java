@@ -1,6 +1,10 @@
 import org.junit.Test;
 import static junit.framework.TestCase.assertEquals;
 
+/**
+ * Kiểm thử theo phương pháp phân hoạch tương đương
+ */
+
 public class TaxAssessment01Test {
     @Test
     public void testFormatTax1() {
