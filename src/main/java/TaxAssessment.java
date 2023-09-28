@@ -67,7 +67,7 @@ public class TaxAssessment {
     }
 
     public static String formatTax(String person, long income) {
-        // Tính thuế dựa trên đối tượng và thu nhập
+        // Gọi phương thức tính thuế dựa trên đối tượng và thu nhập
 
         double tax = assessTax(person, income);
 
@@ -95,9 +95,11 @@ public class TaxAssessment {
         System.out.print("Nhập thu nhập tính thuế của đối tượng (VNĐ) (làm tròn đến hàng đơn vị): ");
         long income = scanner.nextLong();
 
-        // In kết quả
+        // Gọi phương thức tính thuế
 
         String result = formatTax(person, income);
+
+        // In kết quả
 
         if (result.equals("Invalid input")) {
             System.out.println(result);
