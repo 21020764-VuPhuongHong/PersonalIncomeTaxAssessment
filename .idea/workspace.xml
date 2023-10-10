@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="225f8a98-7587-4677-bc1d-270b2cfff067" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/TaxAssessment03Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TaxAssessment04Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TaxAssessment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TaxAssessment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TaxAssessment01Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TaxAssessment01Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TaxAssessment02Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TaxAssessment02Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,22 @@
     &quot;last_opened_file_path&quot;: &quot;F:/Code/HK1_Year2/OOP/JUnit&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="TaxAssessment04Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PersonalIncomeTaxAssessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TaxAssessment04Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TaxAssessment04Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +69,9 @@
       <workItem from="1695825357734" duration="16633000" />
       <workItem from="1695871758835" duration="14690000" />
       <workItem from="1696389562750" duration="3278000" />
-      <workItem from="1696418692928" duration="4453000" />
+      <workItem from="1696418692928" duration="7101000" />
+      <workItem from="1696870105237" duration="3469000" />
+      <workItem from="1696937318180" duration="4411000" />
     </task>
     <servers />
   </component>
